@@ -20,7 +20,6 @@ MOMO親子,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038
 東森綜合台,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
 東森超視,p2p://211.75.214.186:9906/57a7255d000bf7bc3d69d43ffb84d474.ts
 中天綜合,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
-東風衛視,
 中天娛樂,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c1695 
 東森戲劇,P2p://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
 八大戲劇,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
