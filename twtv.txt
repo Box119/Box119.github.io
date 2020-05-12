@@ -67,7 +67,7 @@ HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e#P2p://51.79.
 AXN,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8#http://saka07.fansmestar.com/ch067/playlist.m3u8#tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX
 好莱坞电影,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43#P2p://47.115.141.24:29956/5eb707ae0008930d49f95471c4a9ac57#P2p://51.79.41.138:18912/5b1409f3000c1df554ed7fe3ccbfb5e2.ts
 衛視西片,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650#P2p://47.115.141.24:29956/5eb707ae000c046949f955522554ee3b#tvbus://4Ai97nbkyoP9UGswVqdmhkY5VuUhA6f2x9efVHzaCyo1CsivNQ
-FOX Movies,P2p://51.79.41.138:18912/5b7267ae000b9c6cc8d1f482905d7e3f.ts#P2p://51.79.41.138:18912/5b140977000ab01d63c50737f92c9a8c.ts
+FOX Movies,P2p://51.79.41.138:18912/5b140977000ab01d63c50737f92c9a8c.ts
 HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b#tvbus://3oBzPJbzTnk2D2aZs1owFBtbBrnoZDJnhhPeuZ3iPUbrTb4srA
 HBO強檔巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126#tvbus://3Gck3ZQTy6pt7JqTiRK9rhq9jTCZa6dFRHY8Y377MbHSCSyXmu
 FOX優質電影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
