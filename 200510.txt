@@ -1,5 +1,5 @@
 台灣數位,#genre#
-NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+JAPAN NEWS,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 BBC,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
 CNN,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
 民视,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
@@ -28,7 +28,7 @@ MOMO親子,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038#P2p:/
 東森綜合台,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7#P2p://51.79.41.138:18912/5b1409f1000dc91b655a208f2cb234bd.ts
 三立台灣台,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4#P2p://47.115.141.24:29956/5eb707b200058c5249f9634a279fea11#P2p://51.79.41.138:18912/5c2dd74a000cbd461de438d2516b0598.ts#tvbus://12AJmEiuRVBZnnPNvtLLU1ohJZuiVUeD4vEVwkBpXj4rcChvwSF
 三立都會台,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4#P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1#tvbus://3P3TmCuU7XMLCZyDpKKhMWEzaymvcLi89gioXC4n7RF65hZUvW
-衛視中文台,https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46#P2p://47.115.141.24:29956/5eb707ae000ce4af49f9558c1b0b3e65#P2p://51.79.41.138:18912/5b14096a00006f0713094e01eb31199f.ts
+衛視中文台,P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46#P2p://47.115.141.24:29956/5eb707ae000ce4af49f9558c1b0b3e65#P2p://51.79.41.138:18912/5b14096a00006f0713094e01eb31199f.ts
 東森綜合,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7#P2p://47.115.141.24:29956/5eb707b60007c2fe49f9737b54389bfc
 東森超視,tvbus://4JKXr5NeLLNWjRY84Vcgbc6FR1nwzPcxx6kJow5pfrPMTGnpzb#p2p://211.75.214.186:9906/57a7255d000bf7bc3d69d43ffb84d474.ts
 壹綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c#P2p://47.115.141.24:29956/5eb707b2000d2e8d49f9653f68834aa2
