@@ -64,7 +64,7 @@ TVBS,http://198.16.106.58:8278/tvbs/playlist.m3u8?tid=MEFE7824840078248400&ct=18
 龍祥電影台,http://198.16.106.58:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 HBO,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 東森洋片台,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-AXN,tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX
+AXN,tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX#http://live.52ypp.com:81/tw.php?id=76#http://111.13.111.192/211.75.9.37:20020/20029#http://111.13.111.192/211.75.9.37:20020/20029
 好萊塢電影台,http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 衛視西片台,http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7&ct=18335&tsum=52f1c137409b9c51014621f1e1e21a51#ttp://198.16.106.58:8278/weishiwestern_twn/playlist.m3u8?tid=MFDF8567633585676335&ct=18392&tsum=5f38b79f3c0c38050372e6bde9440a2a
 FOX Movies,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5#http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://live.52ypp.com:81/tw.php?id=55
