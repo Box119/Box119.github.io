@@ -129,7 +129,7 @@ http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18
 #EXTINF:-1,東森洋片台
 http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1,AXN
-tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX
+tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX#http://live.52ypp.com:81/tw.php?id=76#http://111.13.111.192/211.75.9.37:20020/20029#http://111.13.111.192/211.75.9.37:20020/20029
 #EXTINF:-1,好萊塢電影台
 http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1,衛視西片台
