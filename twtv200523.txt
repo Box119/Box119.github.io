@@ -67,7 +67,7 @@ HBO,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&c
 AXN,tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX
 好萊塢電影台,http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 衛視西片台,http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7&ct=18335&tsum=52f1c137409b9c51014621f1e1e21a51#ttp://198.16.106.58:8278/weishiwestern_twn/playlist.m3u8?tid=MFDF8567633585676335&ct=18392&tsum=5f38b79f3c0c38050372e6bde9440a2a
-FOX Movies,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5#http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX Movies,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5#http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://live.52ypp.com:81/tw.php?id=55
 FOX影集,http://bddb.228888888.xyz:8081/live/ws104.m3u8
 Fox動作,http://bddb.228888888.xyz:8081/live/ws105.m3u8#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 Fox家庭,http://bddb.228888888.xyz:8081/live/ws106.m3u8
