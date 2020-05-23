@@ -20,7 +20,7 @@ NBA HD,http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F94009956940099
 CN卡通HD,http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 Disney,http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
 東森幼幼,http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-MOMO親子,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038#tvbus://87Zwb4NBATkurNeeV2LtG76x6JgmL6kcipLbUcJ2yfbaNWDd9N
+MOMO親子,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038#http://198.16.106.58:8278/starfamily/playlist.m3u8?tid=m35569e28d78a&ct=18335&tsum=fb0f65f17e4ceec252f8c5b8a5552119
 緯來綜合,http://198.16.106.58:8278/videolandzhe_twn/playlist.m3u8?tid=me8bac156077117426124&ct=17877&tsum=f5d43c876bab3b4a886b39fc8f7fc653
 緯來日本,rtmp://xiaoyu.speedws.com/sat/tv771
 八大第1台,http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=MA8A1840221418402214&ct=18392&tsum=f987ccb055254f75b94a87e6edc5c4e1
