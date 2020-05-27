@@ -39,7 +39,7 @@ http://boyztoyz.us:80/RonDenston/15.05.19/4407
 #EXTINF:-1 tvg-id="23" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="數位",Disney
 http://iptvpro.premium-itv.com:8789/1100/0011/24023
 #EXTINF:-1 tvg-id="24" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="數位",MOMO親子
-
+p2p://190.2.146.92:18912/5d70eb0f000a5e750d0a9659304554ba.ts
 #EXTINF:-1 tvg-id="25" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="數位",東森幼幼
 
 #EXTINF:-1 tvg-id="26" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="數位",緯來综合
@@ -60,14 +60,14 @@ http://live.zbjh.cc/live/ws131.m3u8#http://185.93.2.35:12012/live/359111068247FF
 
 #EXTINF:-1 tvg-id="34" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="數位",八大娱樂
 http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=MC7C6131536661315366&ct=18392&tsum=ca3afe510fdab8d2c2c7ed8088843dc9
-#EXTINF:-1 tvg-id="5" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="數位",星衛娱樂台
+#EXTINF:-1 tvg-id="35" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="數位",星衛娱樂台
 http://198.16.106.58:8278/starentertainment_twn/playlist.m3u8?tid=m03b7fd7a033016076997&ct=17874&tsum=fe095a1f38d6ea608dc64c6b66e12833
 #EXTINF:-1 tvg-id="36" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="數位",中天综合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="東風衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86.png" group-title="數位",東風衛視
-
+#EXTINF:-1 tvg-id="37" tvg-name="FOX life" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86.png" group-title="數位",FOX 
+http://iptvpro.premium-itv.com:8789/1100/0011/24125
 #EXTINF:-1 tvg-id="38" tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3MUCH.png" group-title="數位",年代MUCH
-
+http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
 #EXTINF:-1 tvg-id="39" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="數位",中天娱樂
 http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="數位",東森戲劇
@@ -78,14 +78,16 @@ http://bbdd.228888888.xyz:8081/hls/ch208.m3u8
 rtmp://xiaoyu.speedws.com/sat/tv421
 #EXTINF:-1 tvg-id="43" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="數位",緯來戲劇
 http://live.zbjh.cc/live/ws132.m3u8
-#EXTM3U
+#EXTINF:-1 tvg-id="4" tvg-name="MOMO綜合" tvg-logo="https://i.imgur.com/hObPElR.jpg" group-title="數位",Momo 綜合台
+rtmp://xiaoyu.speedws.com/sat/tv761
 #EXTINF:-1 tvg-id="45" tvg-name="JET綜合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="數位",JET綜合台
 http://111.13.111.192/211.75.9.37:20030/20031
 #EXTINF:-1 tvg-id="46" tvg-name="FOX Life" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png" group-title="數位",FOX Life
 http://boyztoyz.us:80/RonDenston/15.05.19/6814
 #EXTINF:-1 tvg-id="47" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="數位",緯來日本
 rtmp://xiaoyu.speedws.com/sat/tv771#http://live.zbjh.cc/live/ws136.m3u8
-#EXTM3U
+#EXTINF:-1 tvg-id="48" tvg-name="FOX 綜合" tvg-logo="" group-title="數位",FOX 綜合
+http://178.217.72.66/225.201.2.199/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="49" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="數位",壹新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="數位",年代新聞
@@ -106,7 +108,8 @@ http://111.13.111.192/211.75.9.37:20060/20068
 http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://xiaoyu.speedws.com/sat/tv571#https://www.youtube.com/watch?v=dphWo0r27Z4
 #EXTINF:-1 tvg-id="58" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="數位",非凡新聞
 http://111.13.111.192/211.75.9.37:20060/20061
-#EXTM3U
+#EXTINF:-1 tvg-id="598" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="新闻台",三立財經新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="星衛電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="數位",星衛電影台
 http://bbdd.228888888.xyz:8081/hls/ch305.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="數位",衛視電影台
@@ -126,11 +129,11 @@ http://live.52ypp.com:81/tw.php?id=76
 #EXTINF:-1 tvg-id="68" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="數位",好莱坞電影台
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="衛视洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="數位",衛视洋片台
-http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7&ct=18335&tsum=52f1c137409b9c51014621f1e1e21a51#ttp://198.16.106.58:8278/weishiwestern_twn/playlist.m3u8?tid=MFDF8567633585676335&ct=18392&tsum=5f38b79f3c0c38050372e6bde9440a2a
+http://bbdd.228888888.xyz:8081/hls/ch307.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="數位",FOX Movies
 http://111.13.111.192/211.75.9.37:20040/20046#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 #EXTINF:-1 tvg-id="71" tvg-name="FOX影集" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="數位",FOX影集
-http://185.93.2.35:12012/live/359111068247FFA1/1dB4csiFnSm2wjfBKMHzT_8fSlWG23eJPlGPWW88OSG5yHbyVaEkRfFqmQgYa-pl/6F0B1449D46B4D08/929339.ts
+hhttp://iptvpro.premium-itv.com:8789/1100/0011/66067
 #EXTINF:-1 tvg-id="72" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="數位",Fox動作
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Fox家庭" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="數位",Fox家庭
