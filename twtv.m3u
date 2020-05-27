@@ -41,7 +41,7 @@ http://iptvpro.premium-itv.com:8789/1100/0011/24023
 #EXTINF:-1 tvg-id="24" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="數位",MOMO親子
 p2p://190.2.146.92:18912/5d70eb0f000a5e750d0a9659304554ba.ts
 #EXTINF:-1 tvg-id="25" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="數位",東森幼幼
-
+http://220.158.149.14:9999/live/TV00000000000000000076@HHZT
 #EXTINF:-1 tvg-id="26" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="數位",緯來综合
 http://live.zbjh.cc/live/ws133.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="八大第1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="數位",八大第1台
@@ -53,7 +53,7 @@ http://111.13.111.192/211.75.9.37:20050/20053#http://live.zbjh.cc/live/ws127.m3u
 #EXTINF:-1 tvg-id="30" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="數位",三立都会台
 http://111.13.111.192/211.75.9.37:20050/20054#http://live.zbjh.cc/live/ws105.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="數位",衛視中文台,
-http://boyztoyz.us:80/RonDenston/15.05.19/7449
+http://boyztoyz.us:80/RonDenston/15.05.19/7449#http://live.52ypp.com:81/tw.php?id=98
 #EXTINF:-1 tvg-id="32" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="數位",東森综合台
 http://live.zbjh.cc/live/ws131.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/jexYzw2nfgJViItO_aETKS5sRGJYWvQ1IR87CELH5hgzX9LWe2j65KY7CZXNXgXJ/B6C251966DB148D9/656288.ts
 #EXTINF:-1 tvg-id="33" tvg-name="东森超視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="數位",東森超視
@@ -125,7 +125,7 @@ http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="數位",東森洋片台
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://bbdd.228888888.xyz:8081/hls/ch303.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="數位",AXN
-http://live.52ypp.com:81/tw.php?id=76
+http://live.52ypp.com:81/tw.php?id=76#http://111.13.111.192/211.75.9.37:20020/20029
 #EXTINF:-1 tvg-id="68" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="數位",好莱坞電影台
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="衛视洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="數位",衛视洋片台
