@@ -108,7 +108,7 @@ http://111.13.111.192/211.75.9.37:20060/20068
 http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://xiaoyu.speedws.com/sat/tv571#https://www.youtube.com/watch?v=dphWo0r27Z4
 #EXTINF:-1 tvg-id="58" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="數位",非凡新聞
 http://111.13.111.192/211.75.9.37:20060/20061
-#EXTINF:-1 tvg-id="598" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="新闻台",三立財經新聞
+#EXTINF:-1 tvg-id="59" tvg-logo="" group-title="數位",寰宇新聞
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="星衛電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="數位",星衛電影台
 http://bbdd.228888888.xyz:8081/hls/ch305.m3u8
