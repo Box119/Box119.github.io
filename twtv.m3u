@@ -66,7 +66,7 @@ http://live.zbjh.cc/live/ws131.m3u8#http://185.93.2.35:12012/live/359111068247FF
 #EXTINF:-1 tvg-id="33" tvg-name="三立綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="數位",三立綜合台
 http://live.zbhzi.xyz:8082/live/ws124.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="數位",八大娱樂
-http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=MC7C6131536661315366&ct=18392&tsum=ca3afe510fdab8d2c2c7ed8088843dc9
+http://live.zbjh.cc/live/ws121.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="數位",星衛娱樂台
 p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
 #EXTINF:-1 tvg-id="36" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="數位",中天综合
