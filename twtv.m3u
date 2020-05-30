@@ -60,7 +60,7 @@ http://live.zbjh.cc/live/ws127.m3u8#http://111.13.111.192/211.75.9.37:20050/2005
 #EXTINF:-1 tvg-id="30" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="數位",三立都会台
 http://live.zbhzi.xyz:8082/live/ws125.m3u8#http://live.zbjh.cc/live/ws105.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="數位",衛視中文台,
-http://boyztoyz.us:80/RonDenston/15.05.19/7449#http://live.52ypp.com:81/tw.php?id=#http://111.13.111.192/211.75.9.37:20000/20006
+http://boyztoyz.us:80/RonDenston/15.05.19/7449#http://live.52ypp.com:81/tw.php?id=#http://111.13.111.192/211.75.9.37:20000/20006#http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18557
 #EXTINF:-1 tvg-id="32" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="數位",東森综合台
 http://live.zbjh.cc/live/ws131.m3u8#http://185.93.2.35:12012/live/359111068247FFA1/jexYzw2nfgJViItO_aETKS5sRGJYWvQ1IR87CELH5hgzX9LWe2j65KY7CZXNXgXJ/B6C251966DB148D9/656288.ts
 #EXTINF:-1 tvg-id="33" tvg-name="三立綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="數位",三立綜合台
