@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="NBA HD" tvg-logo="" group-title="數位",NBA HD
 http://iptvpro.premium-itv.com:8789/1100/0011/40707
 #EXTINF:-1 tvg-id="2" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="數位",緯來體育
-rtmp://xiaoyu.speedws.com/sat/tv721
+rtmp://xiaoyu.speedws.com/sat/tv721#http://live.zbhzi.xyz:8082/live/ws138.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="ELTA体育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="數位",ELTA體育1台
 rtmp://xiaoyu.speedws.com/sat/md041
 #EXTINF:-1 tvg-id="4" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="數位",FOX SPORTS HD
