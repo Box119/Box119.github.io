@@ -80,7 +80,7 @@ http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="數位",東森戲劇
 http://185.93.2.35:12012/live/359111068247FFA1/Jw2ZMifY2LmcLkmppR-IKJ2pnbLe0vuCP7hdLIIeTFzz0ruwaRUXyXKqmDX_uSAO/5E70E0AF61364C77/924121.ts#http://live.zbjh.cc/live/ws128.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="數位",八大戲劇
-http://live.zbhzi.xyz:8082/live/ws123.m3u8#http://bbdd.228888888.xyz:8081/hls/ch208.m3u8
+http://live.zbhzi.xyz:8082/live/ws123.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="數位",TVBS歡樂台
 rtmp://xiaoyu.speedws.com/sat/tv421
 #EXTINF:-1 tvg-id="43" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="數位",緯來戲劇
