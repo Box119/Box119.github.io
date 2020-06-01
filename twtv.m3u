@@ -20,13 +20,13 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8##
 #EXTINF:-1 tvg-id="10" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="數位",中視
 rtmp://xiaoyu.speedws.com/sat/tv091
 #EXTINF:-1 tvg-id="11" tvg-name="星卫娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="數位",星衛娛樂台
-P2p://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
+http://198.16.106.58:8278/starentertainment_twn/playlist.m3u8?tid=MAFA9220274892202748&ct=18392&tsum=7d1c5b29b56cfe07f346d47ee4bf512c
 #EXTINF:-1 tvg-id="12" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="數位",華視
 rtmp://xiaoyu.speedws.com/sat/tv111
 #EXTINF:-1 tvg-id="13" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="數位",公視
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="FX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="數位",FX
-http://live.zbjh.cc/live/ws108.m3u8#http://bddb.228888888.xyz:8081/live/ws108.m3u8
+http://live.zbjh.cc/live/ws108.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="星空卫视" tvg-logo="" group-title="數位",星空衛視,
 http://185.93.2.35:12012/live/359111068247FFA1/MWtiW3hS3i2c-SgHaFWQwk27ss1pt2rAZIWhtvUyJlGTmdUjM7F9nOuNPAO5-ovZ/22236276A7954FD2/396308.ts#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 tvg-id="16" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="數位",美食星球
