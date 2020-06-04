@@ -138,7 +138,7 @@ http://185.93.2.35:12012/live/359111068247FFA1/pAggUvYKD6HbSHDAyuTp_xKpr8ILq5abw
 #EXTINF:-1 tvg-id="69" tvg-name="衛视洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="數位",衛视洋片台
 http://iptv.zbhzi.xyz:8082/hls/ch307.m3u8#http://210.242.244.62:1935/8916/143/playlist.m3u8#http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="數位",FOX Movies
-http://111.13.111.192/211.75.9.37:20040/20046#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+http://111.13.111.192/211.75.9.37:20040/20046
 #EXTINF:-1 tvg-id="71" tvg-name="FOX影集" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="數位",FOX影集
 http://185.93.2.35:12012/live/359111068247FFA1/1dB4csiFnSm2wjfBKMHzT_8fSlWG23eJPlGPWW88OSG5yHbyVaEkRfFqmQgYa-pl/6F0B1449D46B4D08/929339.ts
 #EXTINF:-1 tvg-id="72" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="數位",Fox動作
