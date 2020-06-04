@@ -70,13 +70,13 @@ http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&c
 #EXTINF:-1 tvg-id="35" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="數位",星衛娱樂台
 tvbus://3pd5D5NyAFqfqVYq2HXhDxH76BsxxKpoxwNqwr2oWStzUNcoW7#tvbus://3pd5D5NyAFqfqVYq2HXhDxH76BsxxKpoxwNqwr2oWStzUNcoW7
 #EXTINF:-1 tvg-id="36" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="數位",中天综合
-
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="EYE TV旅遊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="數位",EYE TV旅遊
 http://185.93.2.35:12012/live/359111068247FFA1/HngiBazUy62bwubhkkxwT2cGGqpobsFHEYfD6qlO8lWJywVzIBN1uDsQstd6rcf-/21FD2A7277244A89/711887.ts
 #EXTINF:-1 tvg-id="38" tvg-name="三立戲劇台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="數位",三立戲劇台
 
 #EXTINF:-1 tvg-id="39" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="數位",中天娱樂
-
+http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="數位",東森戲劇
 http://185.93.2.35:12012/live/359111068247FFA1/Jw2ZMifY2LmcLkmppR-IKJ2pnbLe0vuCP7hdLIIeTFzz0ruwaRUXyXKqmDX_uSAO/5E70E0AF61364C77/924121.ts
 #EXTINF:-1 tvg-id="41" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="數位",八大戲劇
@@ -98,7 +98,7 @@ http://185.93.2.35:12012/live/359111068247FFA1/1dB4csiFnSm2wjfBKMHzT_8fSlWG23eJP
 #EXTINF:-1 tvg-id="49" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="數位",壹新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="數位",年代新聞
-http://111.13.111.192/211.75.9.37:20050/20055
+http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="數位",东森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="數位",中天新聞
@@ -130,7 +130,7 @@ http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="數位",HBO
 http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 #EXTINF:-1 tvg-id="66" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="數位",東森洋片台
-http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+hhttp://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="數位",AXN
 http://pioneer.anytv.live:8080/axn/tracks-v1a1/mono.m3u8#http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/142.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="數位",好莱坞電影台
