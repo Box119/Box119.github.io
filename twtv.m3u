@@ -26,7 +26,9 @@ http://111.13.111.192/211.75.9.37:20040/20043
 #EXTINF:-1 tvg-id="23" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="數位",Disney
 
 #EXTINF:-1 tvg-id="25" tvg-name="東森幼幼" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="數位",東森幼幼台
-http://forum8848.000webhostapp.com/youtube.php?id=3gKlm323de0&hd=5#http://210.242.244.62:1935/8916/141/playlist.m3u8#https://live.elibei.com/tv/play?token=fb42860b85e42778656554de509b8a10&k=70cd52978dc6b11e5e580df254fada4b&cid=137&uid=81792
+http://forum8848.000webhostapp.com/youtube.php?id=3gKlm323de0&hd=5#http://210.242.244.62:1935/8916/141/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="東森幼幼" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="數位",東森幼幼台
+https://live.elibei.com/tv/play?token=fb42860b85e42778656554de509b8a10&k=70cd52978dc6b11e5e580df254fada4b&cid=137&uid=81792
 #EXTINF:-1 tvg-id="26" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="數位",緯來综合
 
 #EXTINF:-1 tvg-id="27" tvg-name="八大第1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="數位",八大第1台
