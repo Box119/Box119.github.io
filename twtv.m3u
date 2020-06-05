@@ -19,7 +19,9 @@ rtmp://xiaoyu.speedws.com/sat/tv071
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="數位",中視
 rtmp://xiaoyu.speedws.com/sat/tv091
-#EXTINF:-1 tvg-id="11" tvg-name="XXXXXX" tvg-logo="XXX" group-title="數位",XXXX
+
+
+ 
  
  
 #EXTINF:-1 tvg-id="12" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="數位",華視
