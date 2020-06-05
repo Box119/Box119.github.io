@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="60" tvg-name="星衛電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="數位",星衛電影台
-http://140.143.146.222/proxy.php?act=play&vid=iptv2020&tid=wintv123&id=88
 #EXTINF:-1 tvg-id="61" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="數位",衛視電影台
 http://111.13.111.192/211.75.9.37:20020/20026
 #EXTINF:-1 tvg-id="62" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="數位",東森電影台
