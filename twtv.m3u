@@ -34,7 +34,7 @@ http://forum8848.000webhostapp.com/youtube.php?id=3gKlm323de0&hd=5#http://210.24
 #EXTINF:-1 tvg-id="28" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="數位",八大综合台
 http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="數位",三立台湾台
-http://111.13.111.192/211.75.9.37:20040/20041
+http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=MD4D4830297248302972&ct=18392&tsum=08dbefee1d7e866391c2947794ad6b3f
 #EXTINF:-1 tvg-id="30" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="數位",三立都会台
 http://111.13.111.192/211.75.9.37:20050/20054
 #EXTINF:-1 tvg-id="31" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="數位",衛視中文台,
