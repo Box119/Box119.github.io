@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="60" tvg-name="星衛電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="數位",星衛電影台
-http://198.16.106.58:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+P2p://fccseuro.pvbox.live:18912/5b140940000a727a354bc69c1156bcc7.ts
 #EXTINF:-1 tvg-id="61" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="數位",衛視電影台
 http://111.13.111.192/211.75.9.37:20020/20026
 #EXTINF:-1 tvg-id="62" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="數位",東森電影台
