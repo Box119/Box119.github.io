@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="15" tvg-name="星空卫视" tvg-logo="" group-title="數位",星空衛視,
+#EXTINF:-1 tvg-id="15" tvg-name="星空卫视" tvg-logo="" group-title="數位",星空衛視
 http://185.93.2.35:12012/live/359111068247FFA1/MWtiW3hS3i2c-SgHaFWQwk27ss1pt2rAZIWhtvUyJlGTmdUjM7F9nOuNPAO5-ovZ/22236276A7954FD2/396308.ts
 #EXTINF:-1 tvg-id="1" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="數位",NHK
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
