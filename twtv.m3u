@@ -36,7 +36,7 @@ https://live.elibei.com/tv/play?token=fb42860b85e42778656554de509b8a10&k=70cd529
 #EXTINF:-1 tvg-id="28" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="數位",八大综合台
 http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="數位",三立台湾台
-http://111.13.111.192/211.75.9.37:20050/20053
+http://211.75.9.37:20040/20041
 #EXTINF:-1 tvg-id="30" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="數位",三立都会台
 http://111.13.111.192/211.75.9.37:20050/20054
 #EXTINF:-1 tvg-id="31" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="數位",衛視中文台,
