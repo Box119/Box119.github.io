@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="61" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="數位",衛視電影台
-http://111.13.111.192/211.75.9.37:20020/20026
+http://182.61.4.27:85/dl/ttpm.php?id=WSDYHD
 #EXTINF:-1 tvg-id="62" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="數位",東森電影台
-http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+http://182.61.4.27:85/dl/ttpm.php?id=ETTVDYTHD
 #EXTINF:-1 tvg-id="63" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="數位",緯來電影台
 http://111.13.111.192/211.75.9.37:20020/20027
 #EXTINF:-1 tvg-id="64" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="數位",龍祥電影台
@@ -10,7 +10,7 @@ http://192.154.103.75:8080//ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="數位",HBO
 http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 #EXTINF:-1 tvg-id="66" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="數位",東森洋片台
-http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://182.61.4.27:85/dl/ttpm.php?id=ETTVYPTHD
 #EXTINF:-1 tvg-id="67" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="數位",AXN
 http://pioneer.anytv.live:8080/axn/tracks-v1a1/mono.m3u8#http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/142.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="數位",好莱坞電影台
