@@ -1,1 +1,23 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
+http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
+http://p06.iptv2asia.com:18888/http/005
+#EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
+rtmp://xiaoyu.speedws.com/sat/tv071
+#EXTINF:-1 tvg-id="DFW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86.png" group-title="台湾",東風衛視
+http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天綜合
+http://ff.vipub1818.com:8080/live/325/64d5757f6097b61dbc0671e46a91fa67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娛樂
+http://ff.vipub1818.com:8080/live/324/17fd404aebce33e1fb35a100596304a0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾",八大第一
+http://ff.vipub1818.com:8080/live/318/27884002fda5d4dfe480d1de682a6e70/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾",八大綜合
+http://ff.vipub1818.com:8080/live/90/d39ffbf02546183935bb8fa8d1ecee64/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="台湾",STAR MOVIES
+http://106.54.30.243/gz009/gz.php?id=wsgjdy
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾",AXN
+http://106.54.30.243/gz009/gz.php?id=axn
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台湾",HBO HD
+http://f8.apps8888.com:8080/live/332/cf4f03d48be60e675131d45664df6950/index.m3u8
