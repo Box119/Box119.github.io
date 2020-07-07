@@ -9,6 +9,10 @@ http://p06.iptv2asia.com:18888/http/005
 http://ff.vipub1818.com:8080/live/326/9bb69d4194cf3303d6315a27b612105f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾",公視
 http://ff.vipub1818.com:8080/live/86/8d205a5ec64514b9865179cccd5ccc39/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾",動物星球
+http://f9.apps1818.com:8080/live/368/8fd89098988c05ec516fbea2a817fd90/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="台湾",國家野生
+http://f9.apps1818.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾",東森幼幼
 http://f9.apps1818.com:8080/live/371/7b0d83c5588b7f8533ae761a140ef1f2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾",MOMO親子
@@ -17,6 +21,8 @@ http://f9.apps1818.com:8080/live/1126/32f5a0c8b8d25a991083bb478413e994/index.m3u
 http://f9.apps1818.com:8080/live/5/334bb1246f6cdfd81a3bb846731fbc7c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png" group-title="台湾",Disney Junior
 http://f9.apps1818.com:8080/live/47/6d8a8142f0b9f90b8595d50a117ab5d1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png" group-title="台湾",衛視中文台
+https://www.livedoomovies.com/02_SCC_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="DFW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86.png" group-title="台湾",東風衛視
 http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾",緯來綜合,
@@ -57,8 +63,28 @@ http://f8.apps8888.com:8080/live/4/6d823b340ed9e3c4cb6184ed3107125e/index.m3u8
 http://f8.apps8888.com:8080/live/3/7d8dca1ac6df48b69e3a7a1c68a714fc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾",TVBS新聞
 http://f8.apps8888.com:8080/live/2/e3f753b4462318b38b660a02746a70e4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",東森財經新聞
+http://f8.apps8888.com:8080/live/12/fa39ef192478f9e0d3e460020baeb25b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="台湾",非凡新聞
+http://f8.apps8888.com:8080/live/314/a25c008e4da4665d125983e0d0b0071d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="台湾",星衛電影
+http://f8.apps8888.com:8080/live/84/1713404f5d835eba50fc2db9a37091ef/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台湾",衛視電影
+http://f8.apps8888.com:8080/live/93/3b067c48b10b6567d192b941136327c7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",東森電影
+http://f8.apps8888.com:8080/live/350/8760600db7b382e151248ab60f736abf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",東森洋片
+http://f8.apps8888.com:8080/live/1128/914728f3dce09f62b3fb5e4e2b9ed5ba/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",緯來電影
+http://f8.apps8888.com:8080/live/96/899491ff441530ddda580e0017a32290/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好萊塢電影
+http://f8.apps8888.com:8080/live/37/cecaf4fb701d27e6c52ad04d3b882c62/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="台湾",STAR MOVIES
 http://106.54.30.243/gz009/gz.php?id=wsgjdy
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="台湾",衛視西片
+http://f8.apps8888.com:8080/live/369/a37970cff9a750751cf2aa5b91631b1e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台湾",FOX MOVIES
+http://f8.apps8888.com:8080/live/385/393e0f8c8bf01fbaf860209d1184956d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾",AXN
 http://106.54.30.243/gz009/gz.php?id=axn
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台湾",HBO HD
