@@ -70,7 +70,7 @@ http://hdtv.ub1818.com/ublive/index_8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="台湾",星衛電影
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台湾",衛視電影
-
+http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",東森電影
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",東森洋片
