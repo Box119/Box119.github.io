@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="台湾",民視
-http://seb.sason.top/ptv/ftv.php?id=ms
+http://nb.iptv88888.xyz/hls/minshi.m3u8
 #EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
 http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
@@ -12,9 +12,9 @@ http://p06.iptv2asia.com:18888/http/016
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾",動物星球
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="台湾",國家野生
-
+http://nb.iptv88888.xyz/hls/geowild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾",東森幼幼
-http://58.99.33.9:1935/liveedge2/live_25_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+http://nb.iptv88888.xyz:80/hls/dsyouyou.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾",MOMO親子
 http://58.99.33.9:1935/liveedge2/live_24_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="台湾",Disney
@@ -26,61 +26,61 @@ https://www.livedoomovies.com/02_SCC_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="DFW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86.png" group-title="台湾",東風衛視
 http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾",緯來綜合,
-
+http://nb.iptv88888.xyz/hls/wlzonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",緯來日本
-
+http://nb.iptv88888.xyz/hls/wljpan.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天綜合
-http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+http://nb.iptv88888.xyz/hls/ztzonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娛樂
-http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+http://nb.iptv88888.xyz/hls/ztyule.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾",八大第一
-
+http://nb.iptv88888.xyz/hls/bddiyi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾",八大綜合
-http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+http://nb.iptv88888.xyz/hls/bdzonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾",東森綜合
-
+http://nb.iptv88888.xyz/hls/dongsenzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾",三立臺灣台
-http://125.227.210.37:47328/VideoInput/play.ts
+http://nb.iptv88888.xyz/hls/sltaiwan.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="台湾",三立都會台
-http://58.99.33.9:1935/liveedge2/live_30_1.stream/playlist.m3u8
+http://nb.iptv88888.xyz/hls/sldouhui.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="台湾", TVBS歡樂臺
-http://58.99.33.9:1935/liveedge2/live_42_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+http://nb.iptv88888.xyz/hls/tvbshuanle.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="台湾", 星衛娛樂
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS
-http://153.99.180.70:5021/live/349/playlist.m3u8
+http://nb.iptv88888.xyz/hls/tvbsm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾",壹電視新聞
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",東森新聞
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+http://nb.iptv88888.xyz/hls/dsxinwen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="台湾",年代新聞
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+http://nb.iptv88888.xyz/hls/ndxinwen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民視新聞
-http://seb.sason.top/sc/msxw_fhd.m3u8
+http://nb.iptv88888.xyz/hls/msxinwen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新聞
-http://seb.sason.top/sc/sllive_fhd.m3u8
+http://nb.iptv88888.xyz/hls/slxinwen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾",TVBS新聞
-http://125.227.210.37:33551/VideoInput/play.ts
+http://nb.iptv88888.xyz/hls/tvbsxwm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
+http://nb.iptv88888.xyz/hls/dscaiji.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="台湾",非凡新聞
 http://hdtv.ub1818.com/ublive/index_8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="台湾",星衛電影
-http://bbdd.228888888.xyz:8081/hls/ch305.m3u8
+http://nb.iptv88888.xyz/hls/xwtime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台湾",衛視電影
-http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
+http://nb.iptv88888.xyz/hls/wstime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",東森電影
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+http://nb.iptv88888.xyz/hls/dsmovie.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",東森洋片
-http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",緯來電影
 http://58.99.33.9:1935/liveedge2/live_63_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好萊塢電影
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+http://nb.iptv88888.xyz/hls/haolaiwu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥電影
-http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+http://nb.iptv88888.xyz/hls/lxtime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="台湾",STAR MOVIES
 http://106.54.30.243/gz009/gz.php?id=wsgjdy
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="台湾",FOX Action
@@ -88,6 +88,6 @@ http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台湾",FOX MOVIES
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾",AXN
-http://106.54.30.243/gz009/gz.php?id=axn
+http://nb.iptv88888.xyz/hls/axnhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台湾",HBO HD
-http://125.227.210.37:12801/VideoInput/play.ts
+http://nb.iptv88888.xyz/hls/hbohd.m3u8
